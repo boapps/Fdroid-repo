@@ -1,0 +1,10 @@
+AuthorName: '2br-2b'
+Categories:
+- Religion
+- Prayer
+CurrentVersionCode: 2147483647
+IssueTracker: 'https://github.com/2br-2b/Open-Breviary/issues'
+Name: OpenBreviary
+SourceCode: 'https://github.com/2br-2b/Open-Breviary'
+Summary: 'A simple, open-source Android app to pray the Liturgy of the Hours with'
+WebSite: 'https://github.com/2br-2b/Open-Breviary'
