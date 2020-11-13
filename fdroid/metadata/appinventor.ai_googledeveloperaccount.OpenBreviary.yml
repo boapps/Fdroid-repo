@@ -8,9 +8,7 @@ Name: OpenBreviary
 SourceCode: 'https://github.com/2br-2b/Open-Breviary'
 Summary: 'A simple, open-source Android app to pray the Liturgy of the Hours with'
 WebSite: 'https://github.com/2br-2b/Open-Breviary'
-Description: While I was looking through Fdroid's repositories, I noticed a lack of religious apps. I especially wanted to find one for the Breviary, but could not find one.
-
-When I saw this, I decided to program my own. I threw one together in MIT AppInventor, and here is the result!
-.
-AntiFeatures: 'NonFreeNet','NonFreeAdd'
-
+Description: While I was looking through Fdroid's repositories, I noticed a lack of religious apps. I especially wanted to find one for the Breviary, but could not find one. When I saw this, I decided to program my own. I threw one together in MIT AppInventor, and here is the result!
+AntiFeatures:
+- 'NonFreeNet'
+- 'NonFreeAdd'
